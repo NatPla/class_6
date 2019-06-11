@@ -1,0 +1,4 @@
+flask
+requets
+python-dotenv
+gunicorn
