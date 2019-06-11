@@ -1,4 +1,4 @@
 flask
-requets
+requests
 python-dotenv
 gunicorn
