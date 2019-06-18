@@ -12,5 +12,5 @@ def send_message(email, message):
       auth=("api", mail_api_key),
       data={"from": "Excited User <mailgun@{}>".format(mail_domain),
         "to": [email],
-        "subject": "Greetings!",
+        "subject": "Greetings!"X,
         "text": message})
